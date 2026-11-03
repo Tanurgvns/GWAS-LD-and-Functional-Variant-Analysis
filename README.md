@@ -1,5 +1,4 @@
 # GWAS-LD-and-Functional-Variant-Analysis
-# GWAS, LD and Functional Variant Analysis
 
 A reproducible workflow for genome-wide association studies (GWAS) and linkage disequilibrium (LD) analysis using **PLINK 1.9** and **R**, applied to simulated genotype data with both a binary (case/control) and a quantitative phenotype. It also includes a functional annotation of known disease variants with Ensembl VEP.
 
